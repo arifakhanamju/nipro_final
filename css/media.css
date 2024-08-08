@@ -1,0 +1,535 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  header {
+    padding: 10px 0;
+  }
+  .hp1 {
+    font-size: 25px;
+  }
+  /* slider media */
+  .sp-h1 {
+    font-size: 30px;
+  }
+  .btn-a {
+    width: 145px;
+    padding: 10px 5px;
+  }
+  /* banner start */
+  .banner {
+    padding: 0 0 40px 0;
+  }
+  .bp1h1 {
+    font-size: 25px;
+    margin: 20px 0 25px;
+  }
+  .bp3 {
+    margin: 50px 0 0;
+  }
+  .bp3h2 {
+    margin: 18px 0 20px;
+  }
+  .bp3p {
+    margin: 20px 0 25px;
+    padding: 0 0 0;
+  }
+  /* about start */
+  .about {
+    padding: 0 0 50px;
+  }
+  .ap1i {
+    margin: 30px 0;
+  }
+  .ap2 h1 {
+    font-size: 25px;
+  }
+  .ap2p1 {
+    margin: 20px 0 20px;
+  }
+  .ap2a {
+    text-align: center;
+  }
+  /* choose start */
+  .choose {
+    padding: 0 0 10px;
+  }
+  .cp2 {
+    text-align: center;
+  }
+  .cp2i {
+    margin: 0 -6px 0 0;
+  }
+  .cp2h2 {
+    margin: 0;
+  }
+  /* employee start */
+  .ep2 {
+    margin: 0 0 25px 0;
+  }
+  bp1h1 {
+    margin: 25px 0 30px;
+  }
+  .ep2t {
+    padding: 15px 15px 15px 15px;
+  }
+  /* Pricing */
+  .pp2 {
+    margin: 0 0 25px 0;
+    text-align: center;
+  }
+  .pp2 ul li a {
+    width: 150px;
+    margin: 25px 0px 20px;
+  }
+  .pp22f {
+    font-size: 30px;
+  }
+  .pp1h1 {
+    margin: 25px 0 30px;
+  }
+  .pp2h2 {
+    margin: -8px 115px 20px;
+  }
+  .pp2h2s {
+    margin: -8px 105px 20px;
+  }
+  .pp2h2t {
+    margin: -8px 95px 20px;
+  }
+  .pp2h2f {
+    margin: -8px 105px 20px;
+  }
+  /* templete */
+  .tp {
+    margin: 40px 0 40px;
+    padding: 30px 0;
+  }
+  .tph2 {
+    padding: 0;
+  }
+  .tph2 h2 {
+    text-align: center;
+  }
+  .tpa {
+    margin: 0 80px 0 80px;
+  }
+  /* slider2 */
+  .sl2t {
+    margin: 350px 25px 25px;
+    position: unset;
+    top: 0;
+    left: 0;
+  }
+  .sl2t h3 {
+    margin: 10px 0;
+  }
+  .sl2t p {
+    margin: 10px 0 0;
+  }
+  .bun {
+    width: 295px;
+    height: 50px;
+    border: 1px solid #8e8e8e;
+    background-color: #f8f8f8;
+    padding: 10px 25px 10px 0;
+    text-align: center;
+    margin: 30px 0 0;
+    writing-mode: unset;
+    text-orientation: unset;
+  }
+  .btns {
+    display: inline-block;
+    margin: 0 60px;
+  }
+  /* contact */
+  .cr {
+    margin: 60px 0 60px;
+  }
+  .cr h1 {
+    margin: -110px -5px 10px;
+  }
+  .fs {
+    font-size: 12px;
+  }
+  /* footer */
+  .ft p {
+    margin: 25px 20px;
+  }
+  .ftu ul li {
+    margin-right: 15px;
+    margin-top: 15px;
+  }
+  .fbp1 {
+    padding: 12px;
+    text-align: center;
+    margin: 20px 0 0;
+  }
+  .fbp2 {
+    padding: 0;
+    margin: 10px -150px 10px -10px;
+  }
+  .fbp2 ul li {
+    margin: 0 5px 0 0;
+  }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* header media */
+  header {
+    padding: 10px 0;
+  }
+  /* slider media */
+  .sp-h1 {
+    font-size: 47px;
+  }
+  .btn-a {
+    width: 155px;
+    padding: 10px 5px;
+  }
+  /* banner start */
+  .banner {
+    padding: 0 0 80px 0;
+  }
+  .bp1h1 {
+    font-size: 28px;
+    margin: 20px 0 25px;
+  }
+  .bp3 {
+    margin: 80px 0 0;
+  }
+  .bp3h2 {
+    margin: 18px 0 20px;
+  }
+  .bp3p {
+    margin: 20px 0 25px;
+    padding: 0 0 0;
+  }
+  /* about start */
+  .about {
+    padding: 0 0 80px;
+  }
+  .ap1i {
+    margin: 30px 0;
+  }
+  .ap2p1 {
+    margin: 20px 0 20px;
+  }
+  /* choose start */
+  .cp2 {
+    text-align: center;
+  }
+  .cp2i {
+    margin: 0 -6px 0 0;
+  }
+  .cp2h2 {
+    margin: 0;
+  }
+  /* employee start */
+  .ep2 {
+    margin: 0 0 25px 0;
+  }
+  bp1h1 {
+    margin: 25px 0 30px;
+  }
+  .ep2t {
+    padding: 15px 15px 15px 15px;
+  }
+  /* Pricing */
+  .pp2 {
+    margin: 0 0 25px 0;
+    text-align: center;
+  }
+  .pp2 ul li a {
+    width: 150px;
+    margin: 25px 0px 20px;
+  }
+  .pp22f {
+    font-size: 30px;
+  }
+  .pp1h1 {
+    margin: 25px 0 50px;
+  }
+  .pp2h2 {
+    margin: -8px 215px 20px;
+  }
+  /* templete */
+  .tp {
+    margin: 60px 0 60px;
+    padding: 30px 105px;
+  }
+  .tph2 {
+    padding: 25px 0px 25px 0px;
+  }
+  .tpa {
+    margin: 0 100px 0 100px;
+  }
+  /* slider2 */
+  .sl2t {
+    top: 6px;
+  }
+  .sl2t h3 {
+    margin: 10px 0;
+  }
+  .sl2t p {
+    margin: 10px 0 0;
+  }
+  .bun {
+    width: 516px;
+    height: 65px;
+    border: 1px solid #8e8e8e;
+    background-color: #f8f8f8;
+    padding: 15px 20px 10px 20px;
+    text-align: center;
+    margin: 30px 0 0;
+    writing-mode: unset;
+    text-orientation: unset;
+  }
+  .btns {
+    display: inline-block;
+    margin: 0 80px;
+  }
+  /* contact */
+  .cr h1 {
+    margin: -110px 85px 10px;
+  }
+  /* footer */
+  .ft p {
+    margin: 25px 20px;
+  }
+  .ftu ul li {
+    margin-right: 8px;
+  }
+  .fbp1 {
+    padding: 0;
+    text-align: center;
+    margin: 20px 0 0;
+  }
+  .fbp2 {
+    padding: 0;
+    text-align: center;
+    margin: 20px 0;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* header media */
+  header {
+    padding: 10px 0;
+  }
+  /* slider media */
+  .sp-h1 {
+    font-size: 47px;
+  }
+  .btn-a {
+    width: 155px;
+    padding: 10px 5px;
+  }
+  /* banner start */
+  .banner {
+    padding: 0 0 80px 0;
+  }
+  .bp1h1 {
+    font-size: 28px;
+    margin: 20px 0 25px;
+  }
+  .bp3 {
+    margin: 80px 0 0;
+  }
+  .bp3h2 {
+    margin: 18px 0 20px;
+  }
+  .bp3p {
+    margin: 20px 0 25px;
+    padding: 0 0 0;
+  }
+  /* about start */
+  .about {
+    padding: 0 0 80px;
+  }
+  .ap1i {
+    margin: 30px 0;
+  }
+  .ap2p1 {
+    margin: 20px 0 20px;
+  }
+  /* choose start */
+  .cp2 {
+    text-align: center;
+  }
+  .cp2i {
+    margin: 0 -6px 0 0;
+  }
+  .cp2h2 {
+    margin: 0;
+  }
+  /* employee start */
+  .ep2 {
+    margin: 0 0 25px 0;
+  }
+  bp1h1 {
+    margin: 25px 0 30px;
+  }
+  .ep2t {
+    padding: 15px 15px 15px 15px;
+  }
+  /* Pricing */
+  .pp2 {
+    margin: 0 0 25px 0;
+  }
+  .pp2 ul li a {
+    width: 150px;
+    margin: 25px 0px 20px;
+  }
+  .pp22f {
+    font-size: 30px;
+  }
+  .pp1h1 {
+    margin: 25px 0 50px;
+  }
+  /* templete */
+  .tp {
+    margin: 60px 0 60px;
+  }
+  .tph2 {
+    padding: 25px 0px 25px 0px;
+  }
+  .tpa {
+    margin: 0 100px 0 100px;
+  }
+  /* slider2 */
+  .sl2t {
+    top: 6px;
+  }
+  .sl2t h3 {
+    margin: 10px 0;
+  }
+  .sl2t p {
+    margin: 10px 0 0;
+  }
+  /* contact */
+  .cr h1 {
+    margin: -110px 175px 10px;
+  }
+  /* footer */
+  .ft p {
+    margin: 40px 185px 30px;
+  }
+  .ftu ul li {
+    margin-right: 8px;
+  }
+  .fbp1 {
+    padding: 30px 30px 30px 180px;
+  }
+  .fbp2 {
+    padding: 30px 0 30px 170px;
+  }
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* header media */
+  header {
+    padding: 10px 0;
+  }
+  /* slider media */
+  .sp-h1 {
+    font-size: 47px;
+  }
+  .btn-a {
+    width: 155px;
+    padding: 10px 5px;
+  }
+  /* banner start */
+  .bp1h1 {
+    font-size: 28px;
+    margin: 20px 0 25px;
+  }
+  .bp3 {
+    margin: 80px 0 0 0;
+  }
+  .bp3h2 {
+    margin: 18px 0 20px;
+  }
+  .bp3p {
+    margin: 20px 0 25px;
+    padding: 0 0 0;
+  }
+  /* about start */
+  .ap2p1 {
+    margin: 20px 0 20px;
+  }
+  /* employee start */
+  bp1h1 {
+    margin: 25px 0 30px;
+  }
+  .ep2t {
+    padding: 15px 0px 15px 0px;
+  }
+  /* Pricing */
+  .pp2 ul li a {
+    width: 150px;
+    margin: 25px 0px 20px;
+  }
+  .pp22f {
+    font-size: 30px;
+  }
+  .pp1h1 {
+    margin: 25px 0 50px;
+  }
+  /* templete */
+  .tp {
+    margin: 80px 0 80px;
+  }
+  .tph2 {
+    padding: 25px 100px 25px 0px;
+  }
+  /* slider2 */
+  .sl2t p {
+    margin: 15px 0 0;
+  }
+  /* contact */
+  .cr h1 {
+    margin: -110px 295px 10px;
+  }
+  /* footer */
+  .ft p {
+    margin: 40px 7px 30px;
+  }
+  .ftu ul li {
+    margin-right: 8px;
+  }
+  .fbp1 {
+    padding: 30px 0 30px 28px;
+    color: #ffffff;
+  }
+  .fbp2 {
+    padding: 30px 0 30px 140px;
+    color: #ffffff;
+  }
+}
+/* Extra large devices (large desktops, 1200px and up)  */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* banner media */
+  .sp-h1 {
+    font-size: 56px;
+  }
+  /* footer */
+  .ft p {
+    margin: 40px 85px 30px;
+  }
+  .fbp1 {
+    padding: 30px 0 30px 100px;
+    color: #ffffff;
+  }
+  .fbp2 {
+    padding: 30px 0 30px 240px;
+    color: #ffffff;
+  }
+  /* contact */
+  .cr h1 {
+    margin: -110px 385px 10px;
+  }
+}
+/* Extra extra large devices (large desktops, 1400px and up)  */
+@media (min-width: 1400px) {
+}
